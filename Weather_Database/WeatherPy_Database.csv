@@ -1,0 +1,764 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Port Lincoln,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+1,Georgetown,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+2,Viransehir,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+3,Bredasdorp,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+4,Thompson,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+5,Qaanaaq,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+6,Solnechnyy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+7,Pinsk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+8,Cape Town,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+9,Kimbe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+10,Butaritari,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+11,Port Hardy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+12,Hermanus,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+13,Kysyl-Syr,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+14,Belushya Guba,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+15,Douglas,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+16,Ancud,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+17,Busselton,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+18,Carnarvon,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+19,Bafra,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+20,Yellowknife,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+21,Luderitz,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+22,Pevek,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+23,Tiksi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+24,Saint-Philippe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+25,Bluff,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+26,Hobart,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+27,Tazovskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+28,Turtas,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+29,Rikitea,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+30,Upernavik,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+31,Atuona,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+32,Portland,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+33,La Ronge,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+34,Dondo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+35,Danielskuil,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+36,Port Elizabeth,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+37,Barrow,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+38,Sete,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+39,New Norfolk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+40,Ushuaia,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+41,Norman Wells,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+42,Punta Arenas,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+43,Illoqqortoormiut,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+44,Salalah,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+45,Hilo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+46,Lagoa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+47,Vostok,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+48,Chapais,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+49,Namibe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+50,Airai,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+51,Tumannyy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+52,Cabo San Lucas,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+53,Terre Haute,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+54,Scarborough,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+55,Nizhneyansk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+56,Barentsburg,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+57,Vardo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+58,Bambous Virieux,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+59,Castro,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+60,Kousseri,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+61,Krasnyy Chikoy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+62,Macusani,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+63,Tasiilaq,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+64,Dhadar,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+65,Jacqueville,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+66,Zapadnaya Dvina,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+67,Guamal,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+68,Avarua,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+69,Oranjestad,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+70,Beclean,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+71,Belaya Gora,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+72,Senno,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+73,Jamestown,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+74,Kahului,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+75,Lompoc,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+76,Cidreira,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+77,Great Yarmouth,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+78,Beringovskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+79,Udachnyy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+80,Elban,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+81,Banda Aceh,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+82,Kodiak,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+83,Kiama,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+84,Batemans Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+85,Tsihombe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+86,Hovd,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+87,Ambilobe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+88,Hithadhoo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+89,Vaini,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+90,Kaeo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+91,Hambantota,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+92,Sao Filipe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+93,Taolanaro,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+94,Kapaa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+95,Aksarayskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+96,Narsaq,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+97,Aboso,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+98,Dikson,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+99,Stornoway,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+100,Leningradskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+101,Zhigansk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+102,Boende,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+103,Alta Floresta,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+104,Kibala,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+105,Margate,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+106,Saint-Denis,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+107,Nur,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+108,Nanortalik,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+109,Nioro,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+110,Olafsvik,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+111,Iqaluit,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+112,Mataura,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+113,Kampene,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+114,Albany,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+115,Gainesville,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+116,Hervey Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+117,Guerrero Negro,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+118,Hamilton,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+119,Cherskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+120,Adiake,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+121,Chuy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+122,Najran,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+123,Molina,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+124,Lebu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+125,Gizo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+126,Saint-Augustin,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+127,Puerto Ayora,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+128,Mineros,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+129,Victoria,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+130,Acapulco,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+131,Sorland,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+132,Ibiuna,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+133,Akyab,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+134,Nueve De Julio,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+135,Inhambane,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+136,Padang,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+137,Port Alfred,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+138,Mys Shmidta,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+139,Saint George,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+140,Sao Felix Do Xingu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+141,East London,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+142,Falam,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+143,Ponerihouen,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+144,Kavieng,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+145,Vila Velha,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+146,Savannah Bight,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+147,Kabompo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+148,Santander,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+149,Nikolskoye,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+150,Santo Antonio Do Leverger,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+151,Mancio Lima,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+152,Port Keats,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+153,Kindersley,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+154,Jasper,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+155,Harmanli,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+156,Saskylakh,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+157,Constitucion,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+158,Opuwo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+159,Yatou,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+160,Tashla,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+161,Roma,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+162,Nanakuli,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+163,Sapernoye,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+164,Zunheboto,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+165,Mpongwe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+166,Soyo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+167,Alekseyevka,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+168,Tuktoyaktuk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+169,Ostrovnoy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+170,Coquimbo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+171,Bilibino,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+172,Atoyac,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+173,Kristiansund,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+174,Smithers,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+175,Sitka,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+176,Francia,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+177,Thunder Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+178,Cabra,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+179,Mount Gambier,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+180,Bandarbeyla,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+181,Amderma,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+182,Necochea,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+183,Ilulissat,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+184,Ola,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+185,Rambouillet,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+186,Mpulungu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+187,Save,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+188,Esmeraldas,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+189,Ribeira Grande,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+190,Grindavik,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+191,Nouadhibou,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+192,Sioux Lookout,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+193,Sambava,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+194,Itoman,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+195,Barawe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+196,Baraboo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+197,Sao Joao Da Barra,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+198,Ulaanbaatar,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+199,Mar Del Plata,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+200,Dawei,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+201,Bengkulu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+202,Colac,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+203,Gladstone,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+204,Severo-Kurilsk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+205,Chumikan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+206,Juba,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+207,Vaitupu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+208,Durant,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+209,Arraial Do Cabo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+210,Saa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+211,Rongcheng,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+212,Esperance,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+213,Tahta,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+214,Nishihara,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+215,Katangli,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+216,Tiarei,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+217,Kavaratti,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+218,Nicoya,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+219,Nemuro,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+220,Hasaki,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+221,Maningrida,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+222,Bargal,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+223,Lolua,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+224,Katsuura,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+225,Becerril,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+226,Epinay-Sur-Orge,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+227,Omsukchan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+228,Pestravka,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+229,Praya,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+230,Te Anau,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+231,Neuquen,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+232,Konstantinovo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+233,Kieta,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+234,Kaili,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+235,Aklavik,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+236,Barranca,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+237,Attawapiskat,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+238,Shu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+239,Birsk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+240,Lamu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+241,Torbay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+242,At-Bashi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+243,Prince Rupert,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+244,Jiuquan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+245,Sentyabrskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+246,Pestovo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+247,Rawson,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+248,Mecca,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+249,Provideniya,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+250,Dobele,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+251,Riohacha,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+252,Tutoia,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+253,Ampanihy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+254,Poniatowa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+255,Weslaco,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+256,Lorengau,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+257,Bur Gabo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+258,Gorontalo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+259,Newport,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+260,Husavik,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+261,Saint Anthony,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+262,Tautira,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+263,Tornio,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+264,Pangnirtung,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+265,San Cristobal,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+266,Boden,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+267,Tir Pol,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+268,Ketchikan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+269,Urucara,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+270,Marawi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+271,Mumford,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+272,Adrar,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+273,Chalon-Sur-Saone,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+274,Umzimvubu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+275,Moose Factory,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+276,Mahebourg,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+277,Katherine,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+278,Ponta Do Sol,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+279,Ahipara,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+280,Pacific Grove,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+281,Viligili,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+282,Sistranda,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+283,Mount Isa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+284,Weligama,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+285,Turukhansk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+286,Grand River South East,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+287,Conde,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+288,Killybegs,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+289,Kaoma,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+290,Natal,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+291,Narrabri,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+292,Poronaysk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+293,Wanaka,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+294,Mashhad,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+295,Talnakh,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+296,Angoche,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+297,Grajau,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+298,Clyde River,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+299,Samusu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+300,Buraydah,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+301,Bentiu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+302,Ca Mau,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+303,Dunedin,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+304,Fort Saint James,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+305,Ojinaga,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+306,Middelkerke,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+307,Samarai,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+308,Ciamis,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+309,Bethanien,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+310,Malwan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+311,Sukumo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+312,Kruisfontein,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+313,Fort Saint John,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+314,Rocha,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+315,Nipawin,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+316,Mosetse,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+317,Viedma,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+318,Bosaso,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+319,Bulgan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+320,Harper,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+321,The Valley,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+322,Letterkenny,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+323,Calbuco,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+324,Yulara,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+325,Neepawa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+326,Mackenzie,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+327,Le Port,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+328,Khatanga,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+329,Longyearbyen,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+330,Marmaron,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+331,Nuuk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+332,Vila Franca Do Campo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+333,Kaitangata,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+334,Skelleftea,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+335,Merrill,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+336,Mudgee,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+337,Ailigandi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+338,Nosy Varika,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+339,Kamien Pomorski,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+340,Kungsbacka,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+341,Vao,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+342,Skibbereen,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+343,Port-Gentil,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+344,Suntar,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+345,Oksfjord,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+346,Virginia Beach,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+347,Shubarkuduk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+348,Dudinka,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+349,Broken Hill,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+350,Berlevag,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+351,Bubaque,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+352,Baruun-Urt,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+353,Bagepalli,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+354,San Patricio,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+355,Pozo Colorado,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+356,Faanui,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+357,Dhing,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+358,Hachinohe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+359,Gao,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+360,Burnie,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+361,Port Antonio,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+362,Karakol,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+363,Garm,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+364,College,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+365,Geraldton,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+366,Assela,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+367,Neiafu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+368,Oakdale,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+369,Bay Roberts,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+370,Altay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+371,Paraiso,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+372,Louisbourg,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+373,Malanje,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+374,Los Llanos De Aridane,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+375,Komsomolskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+376,Northam,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+377,Puerto Castilla,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+378,Moshupa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+379,Sao Mateus,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+380,Flin Flon,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+381,Naze,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+382,Krasnomayskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+383,Sao Jose Da Coroa Grande,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+384,Sangar,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+385,Villa Union,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+386,Merauke,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+387,Kenitra,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+388,Lipin Bor,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+389,Jalu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+390,Tarudant,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+391,Pitimbu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+392,Kargil,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+393,Mahajanga,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+394,Kapchorwa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+395,Henties Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+396,Avera,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+397,Taylor,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+398,Sisimiut,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+399,Morondava,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+400,Hami,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+401,Svetlogorsk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+402,Havoysund,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+403,Houston,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+404,Souillac,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+405,Touros,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+406,Kirksville,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+407,Fortuna,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+408,Bereda,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+409,Dingle,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+410,Huicheng,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+411,Tura,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+412,Ust-Nera,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+413,Bonavista,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+414,Riyadh,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+415,Bathsheba,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+416,Eyl,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+417,Umba,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+418,Deputatskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+419,Seymchan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+420,Kasongo-Lunda,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+421,Saint-Michel-Des-Saints,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+422,Sinnamary,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+423,Yurimaguas,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+424,Balikpapan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+425,Waipawa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+426,Batagay-Alyta,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+427,Tilichiki,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+428,Nassau,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+429,Jega,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+430,Ushibuka,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+431,Manzhouli,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+432,Bacuit,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+433,Farafangana,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+434,Thinadhoo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+435,Tarko-Sale,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+436,Bahia Blanca,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+437,Ixtapa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+438,Victoria Point,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+439,Katha,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+440,Valparaiso,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+441,Cururupu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+442,Makokou,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+443,Misratah,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+444,Kloulklubed,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+445,Goderich,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+446,Marcona,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+447,Hue,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+448,Macaboboni,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+449,Muisne,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+450,San Juan De Los Morros,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+451,Westpunt,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+452,Pak Phanang,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+453,Tansen,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+454,Kitimat,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+455,Muros,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+456,Lagunas,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+457,Puerto Leguizamo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+458,Zelenets,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+459,Kabo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+460,Sofiysk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+461,Cayenne,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+462,Codrington,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+463,Ranong,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+464,Olot,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+465,Micheweni,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+466,Bethel,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+467,Asfi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+468,Coihaique,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+469,Kholmogory,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+470,Markova,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+471,Tromso,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+472,Constantine,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+473,Clinton,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+474,Richards Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+475,Tabou,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+476,Sorvag,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+477,Quatre Cocos,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+478,Alofi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+479,Sao Paulo De Olivenca,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+480,Galle,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+481,Guiratinga,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+482,Walvis Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+483,Caravelas,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+484,Krasnoarmeysk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+485,Hay River,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+486,Teahupoo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+487,Oriximina,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+488,Kerava,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+489,Aste,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+490,Spirit River,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+491,Verkhoyansk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+492,Bhagalpur,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+493,Buon Me Thuot,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+494,Teya,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+495,Ji-Parana,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+496,San Ramon,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+497,Bom Jesus Do Itabapoana,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+498,Ipixuna,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+499,Alexandria,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+500,Bainbridge,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+501,Chara,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+502,Doka,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+503,Muravlenko,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+504,Vung Tau,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+505,Kuche,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+506,Inderborskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+507,Lanxi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+508,Gunnedah,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+509,Pemangkat,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+510,Lahij,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+511,Murray Bridge,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+512,Superior,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+513,Monterey,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+514,Pleasanton,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+515,Klaksvik,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+516,Oranjemund,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+517,Brae,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+518,Lorsch,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+519,Katobu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+520,Mandera,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+521,Rengo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+522,Nhulunbuy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+523,Broome,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+524,Hargeysa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+525,Roura,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+526,Palabuhanratu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+527,Gaspe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+528,Lavrentiya,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+529,Cape Girardeau,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+530,Svetlaya,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+531,Strezhevoy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+532,Kiunga,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+533,Saleaula,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+534,Iquique,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+535,Raikot,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+536,Aurora,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+537,Panguna,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+538,Mahibadhoo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+539,Makurdi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+540,Jardim,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+541,Vila,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+542,Tubmanburg,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+543,Kurilsk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+544,Cazaje,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+545,Quesnel,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+546,Ohafia,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+547,Ryotsu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+548,Bukoba,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+549,Takoradi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+550,Whitehorse,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+551,San Policarpo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+552,Okhotsk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+553,Starotitarovskaya,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+554,Gannan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+555,Umm Lajj,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+556,Makakilo City,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+557,Linxia,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+558,Tamandare,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+559,Zunyi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+560,Saint-Pierre,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+561,Tuatapere,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+562,Seoul,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+563,Lichtenburg,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+564,Penzance,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+565,Walla Walla,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+566,Axim,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+567,Baijiantan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+568,Faya,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+569,Kralendijk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+570,Aswan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+571,Tigzirt,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+572,Lasa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+573,Chokurdakh,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+574,South Venice,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+575,Debre Tabor,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+576,Ayorou,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+577,Varhaug,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+578,General Roca,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+579,Angicos,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+580,Kuybysheve,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+581,Kargopol,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+582,Roald,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+583,Abilene,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+584,High Level,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+585,Antalaha,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+586,Ucluelet,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+587,Laurel,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+588,Flinders,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+589,Samana,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+590,Dori,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+591,Carlagan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+592,Qena,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+593,Bouca,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+594,Evanston,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+595,Jashpurnagar,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+596,Baherden,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+597,Tawkar,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+598,Gumia,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+599,Hirara,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+600,Emerald,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+601,Nelson Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+602,Mehamn,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+603,Buala,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+604,Port Hedland,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+605,Biak,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+606,Breytovo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+607,Neryungri,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+608,Byron Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+609,Pangody,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+610,Pisco,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+611,Egvekinot,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+612,Nome,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+613,Santa Maria Del Oro,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+614,Morant Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+615,Tual,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+616,Ozernovskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+617,Zhuhai,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+618,Achisay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+619,Cravo Norte,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+620,Topolobampo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+621,Buta,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+622,Gambela,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+623,Cassilandia,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+624,Roebourne,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+625,Gengenbach,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+626,Agboville,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+627,Ahuimanu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+628,Mayo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+629,Santana Do Matos,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+630,Burica,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+631,Nicolas Bravo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+632,Champasak,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+633,Victor Harbor,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+634,Kdyne,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+635,Tukrah,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+636,Sabha,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+637,Tucuma,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+638,Ajmer,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+639,Sataua,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+640,Hede,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+641,Iranshahr,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+642,Isiro,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+643,Palmer,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+644,Ballstad,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+645,Yenagoa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+646,Boyolangu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+647,Amiens,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+648,Halalo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+649,Marzuq,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+650,Limoges,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+651,Vysokogornyy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+652,Sansai,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+653,Asvanyraro,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+654,Plaeng Yao,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+655,Kaeng Khlo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+656,Pandamatenga,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+657,Iquitos,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+658,Kamenskoye,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+659,Sumbe,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+660,Honggang,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+661,Kologriv,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+662,Atambua,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+663,Ramon Castilla,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+664,Zhanatas,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+665,Sungai Pelek,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+666,Kirakira,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+667,Saint-Joseph,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+668,Lotofaga,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+669,Qasigiannguit,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+670,Vryburg,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+671,Cockburn Town,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+672,Ust-Kamchatsk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+673,Pouembout,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+674,Karratha,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+675,Korla,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+676,Hays,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+677,Brufut,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+678,Santa Maria,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+679,Asau,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+680,Gonen,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+681,Valkeala,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+682,Dunmore Town,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+683,Isangel,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+684,Toro,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+685,Gotsu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+686,Innisfail,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+687,Plettenberg Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+688,Palu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+689,Hofn,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+690,Bargarh,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+691,Huarmey,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+692,Rungata,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+693,Talcahuano,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+694,Wajima,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+695,Guozhen,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+696,Santa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+697,Abha,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+698,Stilfontein,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+699,Yerbogachen,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+700,Hetauda,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+701,Camacha,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+702,Imbituba,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+703,Diebougou,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+704,Pangai,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+705,Oktyabrskiy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+706,Barcelona,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+707,Christiana,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+708,Bilma,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+709,Minab,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+710,Prenzlau,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+711,New Plymouth,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+712,Acarau,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+713,Wanning,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+714,Moerai,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+715,Bakchar,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+716,Artvin,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+717,Shadegan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+718,Shilka,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+719,Vastervik,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+720,Shihezi,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+721,Charters Towers,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+722,Kamina,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+723,Khani,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+724,Chinsali,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+725,Formoso Do Araguaia,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+726,Diffa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+727,Khasan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+728,Balclutha,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+729,Dongli,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+730,Taoudenni,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+731,Meyungs,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+732,Kolokani,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+733,Noyabrsk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+734,Rize,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+735,Tiznit,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+736,Xining,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+737,Tatarsk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+738,Sakakah,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+739,Shimanovsk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+740,Betafo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+741,Shar,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+742,Teguldet,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+743,Half Moon Bay,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+744,Gorom-Gorom,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+745,Evensk,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+746,Cabedelo,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+747,Parabel,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+748,Svetlyy,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+749,Zhanaozen,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+750,Tayshet,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+751,One Hundred Mile House,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+752,Ottumwa,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+753,Odienne,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+754,Aitape,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+755,Kokkola,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+756,Mullaitivu,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+757,Gayeri,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+758,Santa Barbara,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+759,Sechura,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+760,Ayan,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+761,Young,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
+762,Astana,KZ,51.1801,71.446,33.75,75,0,8.95,clear sky
