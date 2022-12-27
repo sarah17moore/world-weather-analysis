@@ -1,4 +1,4 @@
-# world-weather-analysis
+# World Weather Analysis - Weather and Travel Itinerary Planning with Python APIs
 A classwork example in which an API is used as a travel planning search engine. Data is extracted from Google Places API using Python code, then is visualized using gmaps Python package. 
 
 ---
