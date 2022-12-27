@@ -1,5 +1,5 @@
 # world-weather-analysis
-A classwork example in which an API is used as a travel planning search engine
+A classwork example in which an API is used as a travel planning search engine. Data is extracted from Google Places API using Python code, then is visualized using gmaps Python package. 
 
 ---
 
